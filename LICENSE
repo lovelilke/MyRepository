@@ -1,11 +1,15 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
+Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            Preamble
+Your privacy is important to Our App Service. Our Privacy Policy covers how we collect, use, disclose, transfer, and store your information. We hope our policy is straightforward and easy-to-understand. Please take a minute to review the details of our privacy practices below.
+
+User Provided Information
+This application doesn't collect any user provided information.    
+. Access Permission
+This application need to request for some permissions from Android Operating System in order to work properly. Below is the list of permissions that will be requested and the purpose of the request:
+INTERNET
+WRITE_EXTERNAL_STORAGE
+
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
